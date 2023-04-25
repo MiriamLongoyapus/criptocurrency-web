@@ -1,0 +1,274 @@
+body{
+    /* background-color: #2f0735; */
+    background-color: #3b0666;
+    /* overflow: hidden; */
+}
+.Homepage{
+
+}
+.nav{
+    display: flex;
+    margin: 3%;
+    gap: 18%;
+    list-style: none;
+    color: aliceblue;
+}
+#button{
+    border-radius: 8%;
+    padding: 2px;
+}
+.criptocurrency{
+    margin-top: 5%;
+    margin-left: 3%;
+    color: aliceblue;
+}
+#button2{
+    border-radius: 8%;
+    padding: 1%;
+    background-color: rgb(10, 212, 10);
+    margin-left: 3%;
+}
+.image{
+
+}
+.image img{
+    height: 60vh;
+    width: 60%;
+    margin-right: 3%;
+    margin-left: 40%;
+    margin-top: -16%;
+}
+.bar{
+    display: flex;
+    list-style: none;
+    gap: 18%;
+    background-color: green;
+    padding: 5%;
+    color: aliceblue;
+    margin-top: 5%;
+}
+.buy{
+    display: flex;
+    justify-content: space-between;
+    margin: 3%;
+    color: aliceblue;
+    
+}
+.more{
+    color: rgb(10, 142, 151);
+}
+.graph{
+    margin-left: 3%;
+    background-color: rgb(199, 181, 181);
+    
+}
+.nav2{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: gray;
+    
+}
+.BTC{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(114, 109, 109);
+    margin-top: 1%;
+
+}
+.ETH{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: gray;
+    margin-top: 1%;
+}
+.BNB{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(114, 109, 109);
+    margin-top: 1%;
+}
+.XRP{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: gray;
+    margin-top: 1%;
+}
+.USDT{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(114, 109, 109);
+    margin-top: 1%;
+}
+.ACT{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: gray;
+    margin-top: 1%;
+}
+.GNG{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background-color: rgb(114, 109, 109);
+    margin-top: 1%;
+}
+.graph img{
+    height: 7vh;
+    width: 5%;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: gray;
+    width: 65px;
+    margin-right: 1%;
+}
+.payment{
+    margin-left: 3%;
+    margin-right: 80%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 1%;
+    background-color: darkslateblue;
+    border-radius: 5%;
+    color: aliceblue;
+}
+.ecosystem{
+    margin-left: 3%;
+    margin-right: 80%;
+    margin-top: 5%;
+    text-align: center;
+    padding: 1%;
+    background-color: darkslateblue;
+    border-radius: 5%;
+    color: aliceblue;
+}
+.protection{
+    margin-right: 50%;
+    margin-left: 25%;
+    margin-top: -23%;
+    text-align: center;
+    padding: 1%;
+    background-color: darkslateblue;
+    border-radius: 5%;
+    color: aliceblue;
+}
+.features{
+    margin-left: 60%;
+    margin-top: -15%;
+    color: aliceblue;
+
+}
+#button3{
+    width: 25%;
+    padding: 2%;
+    background-color: rgb(10, 212, 10);
+    
+}
+.invest{
+    margin-top: 15%;
+    margin-left: 3%;
+    color: aliceblue;
+}
+#button4{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+}
+.country{
+    margin-left: 45%;
+    margin-right: 35%;
+    margin-top: -18%;
+    text-align: center;
+    padding: 1%;
+    height: 40vh;
+    background-color: skyblue;
+    border-radius: 5%;
+    color: aliceblue;
+}
+.Invested{
+    margin-left: 75%;
+    margin-right: 2%;
+    margin-top: -10%;
+    text-align: center;
+    padding: 1%;
+    height: 40vh;
+    background-color: lightpink;
+    border-radius: 5%;
+    color: aliceblue;
+    
+}
+.globe img{
+    margin-left: 3%;
+    margin-top: 5%;
+    height: 40vh;
+    width: 30%;
+}
+.trasted{
+    margin-left: 55%;
+    margin-top: -20%;
+    color: aliceblue;
+}
+.more{
+    margin-left: 55%;
+    color: aliceblue;
+}
+.portfolio{
+    color: aliceblue;
+}
+.users{
+    margin-left: 30%;
+    margin-top: 5%;
+    color: aliceblue;
+
+}
+.form{
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+    color: aliceblue;
+
+}
+#button5{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+
+}
+#button6{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+    
+}
+#button7{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+    
+}
+#button8{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+    
+}
+#button9{
+    width: 15%;
+    padding: 2%;
+    color: greenyellow;
+    
+}
+#button10{
+    width: 10%;
+    padding: 2%;
+    color: greenyellow;
+    
+}
