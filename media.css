@@ -1,14 +1,11 @@
-body{
-    /* background-color: #2f0735; */
-    background-color: #3b0666; 
-}
-.Homepage{
-
+@media screen and (max-width:768px){
+    body{
+    background-color: #3b0666;  
 }
 .nav{
     display: flex;
     margin: 3%;
-    gap: 18%;
+    gap: 5%;
     list-style: none;
     color: aliceblue;
 }
@@ -27,11 +24,8 @@ body{
     background-color: rgb(10, 212, 10);
     margin-left: 3%;
 }
-.image{
-
-}
 .image img{
-    height: 60vh;
+    height: 30vh;
     width: 60%;
     margin-right: 3%;
     margin-left: 40%;
@@ -39,8 +33,9 @@ body{
 }
 .bar{
     display: flex;
+    margin-right: 5%;
     list-style: none;
-    gap: 18%;
+    gap: 5%;
     background-color: green;
     padding: 5%;
     color: aliceblue;
@@ -54,6 +49,7 @@ body{
     
 }
 .more{
+    margin-right: 5%;
     color: rgb(10, 142, 151);
 }
 .graph{
@@ -231,6 +227,7 @@ button{
 .form{
     display: flex;
     margin-top: 5%;
+    padding-right: 10%;
     justify-content: space-between;
     color: aliceblue;
 
@@ -270,4 +267,5 @@ button{
     padding: 2%;
     color: greenyellow;
     
+}
 }
